@@ -33,7 +33,7 @@ from config import (
     UPSTREAM_REPO,
     get_queue,
 )
-from Alexa.Core.Clients.cli import (
+from Core.Clients.cli import (
     ASS_CLI_1,
     ASS_CLI_2,
     ASS_CLI_3,
