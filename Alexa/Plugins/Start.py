@@ -55,7 +55,7 @@ from Alexa.Utilities.ping import get_readable_time
 
 welcome_group = 2
 
-__MODULE__ = "🔘 ᴇssᴇɴᴛɪᴀʟs"
+__MODULE__ = "🚩 ᴇssᴇɴᴛɪᴀʟs"
 __HELP__ = """
 
 
@@ -70,7 +70,7 @@ __HELP__ = """
 /settings 
 - Get Settings button.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ ᴘᴏɪsᴏɴ ᴀɴᴅ ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ @I_LOVE_YOU_PAGAL @B_R_A_N_D_E_D_K_I_N_G.
 """
 
 
@@ -136,9 +136,9 @@ async def useradd(_, message: Message):
     )
 
 
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Music Bot Property Of poison Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
+# Rocks © @B_R_A_N_D_E_D_K_I_N_G © @I_LOVE_YOU_PAGAL
 # Copyright (C) 2021 By @Itz_VeNom_xD
 # Copyright (C) 2021 By @Dr_Asad_Ali
 # Copyright (C) 2021 By @HarshitSharma361
@@ -147,28 +147,28 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command("start") & filters.private & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https:https://te.legra.ph/file/f272a9daec063f74630f6.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+🚩 ʜᴇʟʟᴏ, ɪ ᴀᴍ Pᴏɪsᴏɴ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ › : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴇxᴀ sᴇʀᴠᴇʀ](https://t.me/AsadSupport)
-┣★ sᴜᴘᴘᴏʀᴛ › : [ᴀʟᴇxᴀ ᴄʜᴀᴛ](https://t.me/Alexa_Help)
-┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/Shayri_Music_Lovers)
-┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/HarshitSharma361)
+┣★ ᴄʀᴇᴀᴛᴏʀ › : [Pᴏɪsᴏɴ](https://t.me/I_LOVE_YOU_PAGAL)
+┣★ ᴜᴘᴅᴀᴛᴇs › : [ʟᴏᴠᴇʀs ᴘᴏɪɴᴛ](https://t.me/LOVERS_POINTT)
+┣★ sᴜᴘᴘᴏʀᴛ › : [Pᴏɪsᴏɴ ᴄʜᴀᴛ](https://t.me/Dangerous_fighter_clan)
+┣★ Bʀᴀɴᴅᴇᴅ ᴘʜᴏᴛᴏs › : [ᴘʜᴏᴛᴏs](https://t.me/LOVERS_POINTT)
+┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/B_R_A_N_D_E_D_K_I_N_G)
 ┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Dr_Asad_Ali) ...
+🚩 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
+ᴅᴍ ᴛᴏ ᴍʏ 🚩[ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/I_LOVE_YOU_PAGAL) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕",
-                        url=f"https://t.me/Asad_Music_Bot?startgroup=true",
+                        "➕ ❰ ᴀᴅᴅ Fɪᴅᴀᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕",
+                        url=f"https://t.me/FIDAA_MUSIC_BOT?startgroup=true",
                     )
                 ]
             ]
@@ -184,14 +184,14 @@ async def useradd(_, message: Message):
 )
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://te.legra.ph/file/f272a9daec063f74630f6.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞",
-                        url=f"https://t.me/Shayri_Music_Lovers",
+                        "🚩 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 🚩",
+                        url=f"https://t.me/LOVERS_POINTT",
                     )
                 ]
             ]
@@ -207,13 +207,13 @@ async def useradd(_, message: Message):
 )
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://te.legra.ph/file/f272a9daec063f74630f6.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://t.me/Dr_Asad_Ali"
+                        "🚩 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 🚩", url=f"https://t.me/I_LOVE_YOU_PAGAL"
                     )
                 ]
             ]
