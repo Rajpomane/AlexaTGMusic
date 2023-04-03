@@ -12,7 +12,7 @@ from config import (
     STRING5,
 )
 
-app = Client(
+Client(
     "AlexaMusicBot",
     API_ID,
     API_HASH,
