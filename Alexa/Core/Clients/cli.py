@@ -26,7 +26,6 @@ else:
     ASS_CLI_1 = Client(
         api_id=API_ID,
         api_hash=API_HASH,
-        session_name=STRING1,
         plugins=dict(root="Alexa.Plugins.Multi-Assistant"),
     )
 
